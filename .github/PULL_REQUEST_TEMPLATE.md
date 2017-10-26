@@ -7,13 +7,16 @@
 
 ### Testing:
 <!-- What version(s) of Aras did you use to test these changes? Which browser(s)? -->
-<!-- Use symbols indicate success/issue/not tested. -->
+
 #### Key:
-* Success: :heavy_check_mark:
-* Issue: :heavy_exclamation_mark:
-* Not Tested: :heavy_minus_sign:
+Success: :heavy_check_mark: | Issue: :heavy_exclamation_mark: | Not Tested: :heavy_minus_sign:
+
+<!-- Use symbols indicate success/issue/not tested. Example row: -->
+<!-- 11 SP9 | :heavy_check_mark: | :heavy_check_mark: | :heavy_exclamation_mark: | :heavy_minus_sign: -->
 
 #### Result:
-Aras | IE 11 | Firefox __ ESR | Chrome | Edge 
+Aras | IE 11 | Firefox ESR | Chrome | Edge 
 -----|-------|----------------|--------|------
-11 SP9 | :heavy_check_mark: | :heavy_check_mark: | :heavy_exclamation_mark: | :heavy_minus_sign:
+
+#### Additional Details:
+<!-- Optional. Add details if a browser had issues. Reference an issue if filed. -->
