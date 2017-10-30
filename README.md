@@ -46,3 +46,7 @@ TODO: Write usage instructions
 ## Credits
 
 TODO: Write credits if others contributed to the project
+
+## License
+
+Aras Labs projects are published to Github under the MIT license. See the LICENSE file for license rights and limitations.
