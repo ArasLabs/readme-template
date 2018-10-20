@@ -11,11 +11,23 @@ Aras 11.0 SPx
 Aras 11.0 SPx, Aras 11.0 SPx (open release)
 
 #### Browsers Tested:
-TODO: Select from {Internet Explorer 11, Firefox 38 ESR, Chrome}
+TODO: Select from {Internet Explorer 11, Firefox 58 ESR, Chrome}
+
+## What is Aras Innovator?
+
+Aras Innovator® is a Product Lifecycle Management (PLM) web-based software solution to support companies that need to manage product development, multi-site manufacturing, supply chain operations and quality compliance. Aras provides a new value proposition to companies of all sizes for managing growing product complexity and fast changing processes.
+
+## Configuration & Change Management
+
+#### Cross discipline product structure with online change workflow processes.
+
+    Configuration Management — Aras provides a comprehensive closed-loop system using CM2 certified methods for managing the configuration of a product or system throughout its life.
+    Change Management — Aras streamlines change requests, assessments, and orders and ensures visibility across disciplines and in the extended supply chain, reducing errors and avoiding delays.
+    Quality — The Aras Quality Management System application provides businesses with advanced product quality planning (APQP) tools to manage risk, improve quality, and attain environmental, regulatory, safety, medical, and other forms of compliance.
+
 
 ## How It Works
-
-TODO: Describe how it works
+---Working---
 
 ## Installation
 
@@ -25,7 +37,7 @@ TODO: Describe how it works
 ### Pre-requisites
 
 1. Aras Innovator installed (version 11.0 SPx preferred)
-2. .......
+2. Hardware Compatibility
 
 ### Install Steps
 
@@ -45,7 +57,7 @@ TODO: Write usage instructions
 
 ## Credits
 
-TODO: Write credits if others contributed to the project
+[Kai Iyer](https://github.com/kaiiyer)
 
 ## License
 
