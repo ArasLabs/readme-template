@@ -1,52 +1,31 @@
 # Project Name
-Write a gist  of project 
-## Screenshots or GIF 
 
-> Add Screenshots or GIF of Project/Code for better and quick
-> visualization and make readme.md more effective
+TODO: Write a project description here.
 
-![name of image](./url)
- or
-![name of GIF](./url)
+TIP: Add screenshots or gifs to make your project description or usage steps more effective.
+
+![name of image](./Screenshots/sample.png)
+
+*Add a little caption for your embedded image like this.*
+
 
 ## Project Details
 
- - [ ] **Built Using**
-  - Aras 11.0 SPx
- 
- - [ ] **Versions Tested**
-  - Aras 11.0 SPx, 
-  - Aras 11.0 SPx (open release)
-  
- - [ ] **Browsers Tested**
-  > TODO
- -  Select from {Internet Explorer 11, Firefox 38 ESR, Chrome}
+Release | Notes
+--------|--------
+[{release_tag}](https://github.com/{username}/{repo_name}/releases/tag/{release_tag}) | Enter your release notes here.
 
-- [ ] **Project Statement**
-  > TODO
- -  Write a  detailed project description
+#### Supported Aras Versions
 
-- [ ] **Versions Released**
-  > TODO
- -  Write details about modifications done in specific version and give link for the same
-  [Version1](https://...url#)
- - ....
- [Version2](https://...url#)
- 
- 
-## How It Works
-
-> TODO
-
- 1. List Process of working
- 2. List Process of working
- 3. .......
+Project | Aras
+--------|------
+[{release_tag}](https://github.com/{username}/{repo_name}/releases/tag/{release_tag}) | List the Aras versions supported by your project here. Ex: "11 SP12" or "11 SP10+"
 
 
 ## Installation
 
-> #### Important!
-> **Always back up your code tree and database before applying an import package or code tree patch!**
+#### Important!
+**Always back up your code tree and database before applying an import package or code tree patch!**
 
 ### Pre-requisites
 
@@ -55,23 +34,23 @@ Write a gist  of project
 
 ### Install Steps
 
-> TODO
+TODO: Describe the installation process
 
- 1. List installation Process
- 2. .....
+1. List installation Process
+2. .....
+
 
 ## Usage
 
-> TODO
- 1. List usage instructions
- 2. .....
+TODO: Write usage instructions
 
-## Expected Further Versions
-> TODO
- 1. List expected modification or versions to be required to enhanced the code/project
- 2. .....
+1. List usage instructions
+2. .....
+
 
 ## Contributing
+
+TODO: Tell the community how they can contribute to your project.
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
@@ -79,12 +58,14 @@ Write a gist  of project
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request
 
+
 ## Credits
 
-> TODO:
+TODO: Write credits if others contributed to the project
 
- Write credits if others contributed to the project
 
 ## License
 
-Aras Labs projects are published to Github under the MIT license. See the LICENSE file for license rights and limitations.
+TODO: [Choose an open source license](https://choosealicense.com/) and include it in your repository as LICENSE.md.
+
+Example: This project is published to Github under the MIT license. See the [LICENSE file](./LICENSE.md) for license rights and limitations.
