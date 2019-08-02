@@ -29,7 +29,7 @@ Project | Aras
 
 ### Pre-requisites
 
-1. Aras Innovator installed (current released version preferred)
+1. Aras Innovator installed (version ___ preferred)
 2. .......
 
 ### Install Steps
