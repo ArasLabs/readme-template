@@ -29,7 +29,7 @@ Project | Aras
 
 ### Pre-requisites
 
-1. Aras Innovator installed (version 11.0 SPx preferred)
+1. Aras Innovator installed (version ___ preferred)
 2. .......
 
 ### Install Steps
