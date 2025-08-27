@@ -8,23 +8,22 @@ TIP: Add screenshots or gifs to make your project description or usage steps mor
 
 *Add a little caption for your embedded image like this.*
 
-
 ## Project Details
 
 Release | Notes
 --------|--------
 [{release_tag}](https://github.com/{username}/{repo_name}/releases/tag/{release_tag}) | Enter your release notes here.
 
-#### Supported Aras Versions
+### Supported Aras Versions
 
 Project | Aras
 --------|------
 [{release_tag}](https://github.com/{username}/{repo_name}/releases/tag/{release_tag}) | List the Aras versions supported by your project here. Ex: "11 SP12" or "11 SP10+"
 
-
 ## Installation
 
-#### Important!
+### ⚠️ Important
+
 **Always back up your code tree and database before applying an import package or code tree patch!**
 
 ### Pre-requisites
@@ -39,14 +38,12 @@ TODO: Describe the installation process
 1. List installation Process
 2. .....
 
-
 ## Usage
 
 TODO: Write usage instructions
 
 1. List usage instructions
 2. .....
-
 
 ## Contributing
 
@@ -58,11 +55,9 @@ TODO: Tell the community how they can contribute to your project.
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request
 
-
 ## Credits
 
 TODO: Write credits if others contributed to the project
-
 
 ## License
 
