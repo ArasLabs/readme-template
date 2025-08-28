@@ -5,7 +5,9 @@ Comment out all TODO lines and empty/unneeded sections before committing.
 Placeholder strings to replace (including curly braces)
 * {PROJECT_NAME}
 * {REPO_NAME}
-* {PACKAGE_NAME} 
+* {PACKAGE_NAME}
+* {RELEASE_TAG}
+* {USERNAME}
 -->
 
 # {PROJECT_NAME}
@@ -27,7 +29,7 @@ These tags denote a version or milestone for this project.
 
 Release | Notes
 --------|--------
-[{release_tag}](https://github.com/{username}/{repo_name}/releases/tag/{release_tag}) | Enter your release notes here. What's new and what changed?
+[{RELEASE_TAG}](https://github.com/{USERNAME}/{REPO_NAME}/releases/tag/{RELEASE_TAG}) | Enter your release notes here. What's new and what changed?
 
 ### Version Compatibility
 
@@ -35,7 +37,7 @@ These Aras Innovator releases have been confirmed or can reasonably be expected 
 
 Project Release | Aras Release
 ----------------|------
-[{release_tag}](https://github.com/{username}/{repo_name}/releases/tag/{release_tag}) | List the Aras versions supported by your project here. Ex: "12 SP18" or "R14-R26" or "R31+"
+[{RELEASE_TAG}](https://github.com/{USERNAME}/{REPO_NAME}/releases/tag/{RELEASE_TAG}) | List the Aras versions supported by your project here. Ex: "12 SP18" or "R14-R26" or "R31+"
 
 ## 👷‍♀️ Installation
 
